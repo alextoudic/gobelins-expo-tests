@@ -14,12 +14,15 @@
   "jest": {
     "preset": "jest-expo"
   },
+  "overrides": {
+    "three": "^0.172.0"
+  },
   "dependencies": {
     "@expo/vector-icons": "^14.0.2",
     "@gorhom/portal": "^1.0.14",
     "@react-navigation/bottom-tabs": "^7.0.0",
     "@react-navigation/native": "^7.0.0",
-    "@react-three/drei": "^9.116.0",
+    "@react-three/drei": "^9.120.5",
     "@react-three/fiber": "^8.17.10",
     "expo": "~52.0.23",
     "expo-asset": "~11.0.1",
@@ -47,7 +50,7 @@
     "react-native-screens": "~4.4.0",
     "react-native-web": "~0.19.13",
     "react-native-webview": "13.12.5",
-    "three": "^0.166.1"
+    "three": "^0.172.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
