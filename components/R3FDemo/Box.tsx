@@ -1,4 +1,4 @@
-import { useFrame } from "@react-three/fiber";
+import { useFrame } from "./lib/fiber";
 import { useRef } from "react";
 import { Mesh } from "three";
 import { Box as R3FBox } from "./lib/drei";
