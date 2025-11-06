@@ -18,9 +18,6 @@ Implementation of a 3D cube using `three`.
 
 ## R3F
 
-> [!Warning]
-> Not working on iOS simulator
-
 > [!TIP]
 > Cause error on Android but can be minimized
 
